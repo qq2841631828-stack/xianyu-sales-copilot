@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信与闲鱼聊单副驾驶"
+  short_description: "理解微信闲鱼聊天上下文，直接给自然短回复，必要时另附提醒"
+  default_prompt: "使用 $xianyu-sales-copilot 理解这段微信或闲鱼聊天，直接给一条自然、可复制的回复，必要时另附一句给我的提醒。"

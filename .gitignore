@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+.env
+.env.*
+leads.json
+leads.csv
+changes.jsonl
+ledger/
